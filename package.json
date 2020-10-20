@@ -1,0 +1,7 @@
+{
+  "name": "aderant",
+  "version": "1.0.0",
+  "dependencies": {
+    "yargs": "^13.2.0"
+  }
+}
